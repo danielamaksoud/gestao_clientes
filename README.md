@@ -39,3 +39,9 @@ pip3 install django==2.2
 ```
 python3 --version
 ```
+
+## Interpreter do Python3
+
+```
+pythonw
+```
