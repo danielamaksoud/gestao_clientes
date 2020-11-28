@@ -45,3 +45,9 @@ python3 --version
 ```
 pythonw
 ```
+
+## Criando um site em Django
+
+```
+django-admin startproject AloMundo
+```
