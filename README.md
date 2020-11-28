@@ -2,7 +2,7 @@
 
 # Loja de Maquiagem
 
-Site com loja de maquiagem em Django.
+Site em Django.
 
 ## Arquivos
 
