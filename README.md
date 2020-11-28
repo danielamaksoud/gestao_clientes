@@ -33,3 +33,9 @@ sudo easy_install pip
 ```
 pip3 install django==2.2
 ```
+
+## Verificando versão do Python3 instalada no macOS
+
+```
+python3 --version
+```
