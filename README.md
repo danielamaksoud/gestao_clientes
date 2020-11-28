@@ -51,3 +51,9 @@ pythonw
 ```
 django-admin startproject AloMundo
 ```
+
+## Rodando um site em Django
+
+```
+python3 manage.py runserver
+```
