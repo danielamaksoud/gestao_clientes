@@ -58,3 +58,15 @@ django-admin startproject AloMundo
 ```
 python3 manage.py runserver
 ```
+
+## Criando um ambiente virtual
+
+```
+python3 -m venv myEnv
+```
+
+## Ativando um ambiente virtual
+
+```
+source myEnv/bin/activate
+```
