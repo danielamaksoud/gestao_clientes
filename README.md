@@ -15,6 +15,7 @@ Site em Django.
 - **[Django Masterclass : Build Web Apps With Python & Django](https://www.udemy.com/course/django-course/)**
 - **[Python 3.6.8](https://www.python.org/downloads/release/python-368/)**
 - **[Django 2.2](https://www.djangoproject.com/)**
+- **[Eclipse IDE 2020-09](https://www.eclipse.org/downloads/)**
 
 ## Testando a instalação do Python no macOS
 
