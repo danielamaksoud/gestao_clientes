@@ -12,10 +12,10 @@ Site em Django.
 
 ## Recursos Utilizados
 
-- **[Django Masterclass : Build Web Apps With Python & Django](https://www.udemy.com/course/django-course/)**
-- **[Python 3.6.8](https://www.python.org/downloads/release/python-368/)**
 - **[Django 2.2](https://www.djangoproject.com/)**
+- **[Django Masterclass : Build Web Apps With Python & Django](https://www.udemy.com/course/django-course/)**
 - **[Eclipse IDE 2020-09](https://www.eclipse.org/downloads/)**
+- **[Python 3.6.8](https://www.python.org/downloads/release/python-368/)**
 
 ## Testando a instalação do Python no macOS
 
