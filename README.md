@@ -13,6 +13,7 @@ Site em Django.
 ## Recursos Utilizados
 
 - **[Django 2.2](https://www.djangoproject.com/)**
+- **[Desenvolva uma aplicação com Django 2.0 e deploy no Heroku](https://www.udemy.com/course/django-20-heroku/)**
 - **[Django Masterclass : Build Web Apps With Python & Django](https://www.udemy.com/course/django-course/)**
 - **[Eclipse IDE 2020-09](https://www.eclipse.org/downloads/)**
 - **[Python 3.6.8](https://www.python.org/downloads/release/python-368/)**
