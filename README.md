@@ -51,7 +51,7 @@ pythonw
 ## Criando um site em Django
 
 ```
-django-admin startproject AloMundo
+django-admin startproject nome_do_projeto
 ```
 
 ## Rodando um site em Django
@@ -63,11 +63,17 @@ python3 manage.py runserver
 ## Criando um ambiente virtual
 
 ```
-python3 -m venv myEnv
+python3 -m venv nome_do_ambiente
 ```
 
 ## Ativando um ambiente virtual
 
 ```
 source myEnv/bin/activate
+```
+
+## Criando app em projeto Django
+
+```
+python manage.py startapp nome_do_app
 ```
