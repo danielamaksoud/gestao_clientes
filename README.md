@@ -77,3 +77,9 @@ source myEnv/bin/activate
 ```
 python manage.py startapp nome_do_app
 ```
+
+## Aplicando migrações em projeto Django
+
+```
+python manage.py migrate
+```
