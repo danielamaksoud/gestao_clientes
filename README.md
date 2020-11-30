@@ -83,3 +83,9 @@ python manage.py startapp nome_do_app
 ```
 python manage.py migrate
 ```
+
+## Criando migrações em projeto Django
+
+```
+python manage.py makemigrations
+```
