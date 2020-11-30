@@ -89,3 +89,9 @@ python manage.py migrate
 ```
 python manage.py makemigrations
 ```
+
+## Criando super usuário em projeto Django
+
+```
+python manage.py createsuperuser
+```
