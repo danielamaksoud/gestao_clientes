@@ -84,7 +84,7 @@ python manage.py startapp nome_do_app
 python manage.py migrate
 ```
 
-## Criando migrações em projeto Django
+## Criando migrações em projeto Django (sempre que houver alteração em models)
 
 ```
 python manage.py makemigrations
