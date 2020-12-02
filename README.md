@@ -70,6 +70,7 @@ python3 -m venv nome_do_ambiente
 
 ```
 source myEnv/bin/activate
+. myEnv/bin/activate
 ```
 
 ## Criando app em projeto Django
