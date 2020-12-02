@@ -17,6 +17,7 @@ Site em Django.
 - **[Django Masterclass : Build Web Apps With Python & Django](https://www.udemy.com/course/django-course/)**
 - **[Eclipse IDE 2020-09](https://www.eclipse.org/downloads/)**
 - **[Python 3.6.8](https://www.python.org/downloads/release/python-368/)**
+- **[Modulo django.contrib.auth.views não possui atributo chamado login](https://www.schoolofnet.com/forum/topico/modulo-djangocontribauthviews-nao-possui-atributo-chamado-login-7032)**
 
 ## Testando a instalação do Python no macOS
 
