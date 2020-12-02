@@ -99,3 +99,15 @@ python manage.py makemigrations
 ```
 python manage.py createsuperuser
 ```
+
+## Instalando Homebrew
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+## Instalando Git
+
+```
+brew install git
+```
