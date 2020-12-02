@@ -111,3 +111,10 @@ python manage.py createsuperuser
 ```
 brew install git
 ```
+
+
+## Versionando projeto no Git
+
+```
+git init
+```
