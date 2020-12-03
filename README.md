@@ -123,3 +123,9 @@ brew install git
 ```
 git init
 ```
+
+## Adicionando arquivos ao Git
+
+```
+git add .
+```
