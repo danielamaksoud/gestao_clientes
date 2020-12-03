@@ -20,6 +20,8 @@ Site em Django.
 - **[Modulo django.contrib.auth.views não possui atributo chamado login](https://www.schoolofnet.com/forum/topico/modulo-djangocontribauthviews-nao-possui-atributo-chamado-login-7032)**
 - **[How do i logout the user in the following django code?](https://stackoverflow.com/questions/42081713/how-do-i-logout-the-user-in-the-following-django-code)**
 - **[PostgreSQL](https://www.postgresql.org/)**
+- **[Error loading psycopg2 module: No module named 'psycopg2'](https://cursos.alura.com.br/forum/topico-error-loading-psycopg2-module-no-module-named-psycopg2-117303)**
+
 ## Testando a instalação do Python no macOS
 
 ```
