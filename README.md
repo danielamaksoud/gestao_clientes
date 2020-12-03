@@ -1,6 +1,6 @@
 ![Daniela Maksoud Logo](http://sempregatas.com.br/imagens/Logo.png)
 
-# Loja de Maquiagem
+# Sistema de gestão de clientes
 
 Site em Django.
 
