@@ -18,6 +18,7 @@ Site em Django.
 - **[Eclipse IDE 2020-09](https://www.eclipse.org/downloads/)**
 - **[Python 3.6.8](https://www.python.org/downloads/release/python-368/)**
 - **[Modulo django.contrib.auth.views não possui atributo chamado login](https://www.schoolofnet.com/forum/topico/modulo-djangocontribauthviews-nao-possui-atributo-chamado-login-7032)**
+- **[How do i logout the user in the following django code?](https://stackoverflow.com/questions/42081713/how-do-i-logout-the-user-in-the-following-django-code)**
 
 ## Testando a instalação do Python no macOS
 
