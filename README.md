@@ -23,6 +23,7 @@ Site em Django.
 - **[django-heroku](https://github.com/Gpzim98/django-heroku)**
 - **[Python name 'os' is not defined [duplicate]](https://stackoverflow.com/questions/23048129/python-name-os-is-not-defined/23048147)**
 - **[Bootstrap](https://www.bootstrapcdn.com/)**
+- **[Django Bootstrap Form](https://django-bootstrap-form.readthedocs.io/en/latest/)**
 
 ## Testando a instalação do Python no macOS
 
