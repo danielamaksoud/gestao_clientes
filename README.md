@@ -138,6 +138,13 @@ git commit -m 'Descrição'
 ```
 
 ## Instalando Heroku
+
 ```
 brew tap heroku/brew && brew install heroku
+```
+
+## Criando aplicação no Heroku
+
+```
+heroku apps:create nome_do_app
 ```
