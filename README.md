@@ -8,12 +8,6 @@ Site em Django.
 
 https://gestao-clientes-prog-web.herokuapp.com/
 
-## Arquivos
-
-| Nome do Arquivo | Descrição |
-| ------------- | ------------- |
-| arquivo.py  | Descrição. |
-
 ## Recursos Utilizados
 
 - **[Django 2.2](https://www.djangoproject.com/)**
