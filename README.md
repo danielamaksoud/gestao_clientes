@@ -23,6 +23,7 @@ Site em Django.
 - **[Error loading psycopg2 module: No module named 'psycopg2'](https://cursos.alura.com.br/forum/topico-error-loading-psycopg2-module-no-module-named-psycopg2-117303)**
 - **[Uninstalling PostgreSQL on a Mac System](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.12.html)**
 - **[django-heroku](https://github.com/Gpzim98/django-heroku)**
+- **[Python name 'os' is not defined [duplicate]](https://stackoverflow.com/questions/23048129/python-name-os-is-not-defined/23048147)**
 
 ## Testando a instalação do Python no macOS
 
