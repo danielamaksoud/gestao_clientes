@@ -149,3 +149,9 @@ brew tap heroku/brew && brew install heroku
 ```
 heroku apps:create nome_do_app
 ```
+
+## Subindo aplicação no Heroku
+
+```
+git push heroku master --force
+```
