@@ -1,6 +1,6 @@
 ![Daniela Maksoud Logo](http://sempregatas.com.br/imagens/Logo.png)
 
-# Sistema de gestão de clientes
+# Sistema de Gestão de Clientes
 
 Site em Django.
 
