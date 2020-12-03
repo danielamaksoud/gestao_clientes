@@ -129,3 +129,9 @@ git init
 ```
 git add .
 ```
+
+## Fazendo commit no Git
+
+```
+git commit -m 'Descrição'
+```
