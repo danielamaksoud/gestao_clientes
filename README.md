@@ -19,8 +19,9 @@ Site em Django.
 - **[Python 3.6.8](https://www.python.org/downloads/release/python-368/)**
 - **[Modulo django.contrib.auth.views não possui atributo chamado login](https://www.schoolofnet.com/forum/topico/modulo-djangocontribauthviews-nao-possui-atributo-chamado-login-7032)**
 - **[How do i logout the user in the following django code?](https://stackoverflow.com/questions/42081713/how-do-i-logout-the-user-in-the-following-django-code)**
-- **[PostgreSQL](https://www.postgresql.org/)**
+- **[PostgreSQL 10.15-1](https://www.postgresql.org/)**
 - **[Error loading psycopg2 module: No module named 'psycopg2'](https://cursos.alura.com.br/forum/topico-error-loading-psycopg2-module-no-module-named-psycopg2-117303)**
+- **[Uninstalling PostgreSQL on a Mac System'](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.12.html)**
 
 ## Testando a instalação do Python no macOS
 
