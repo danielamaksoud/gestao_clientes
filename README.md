@@ -21,7 +21,8 @@ Site em Django.
 - **[How do i logout the user in the following django code?](https://stackoverflow.com/questions/42081713/how-do-i-logout-the-user-in-the-following-django-code)**
 - **[PostgreSQL 10.15-1](https://www.postgresql.org/)**
 - **[Error loading psycopg2 module: No module named 'psycopg2'](https://cursos.alura.com.br/forum/topico-error-loading-psycopg2-module-no-module-named-psycopg2-117303)**
-- **[Uninstalling PostgreSQL on a Mac System'](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.12.html)**
+- **[Uninstalling PostgreSQL on a Mac System](https://www.enterprisedb.com/edb-docs/d/postgresql/installation-getting-started/installation-guide-installers/11/PostgreSQL_Installation_Guide.1.12.html)**
+- **[django-heroku](https://github.com/Gpzim98/django-heroku)**
 
 ## Testando a instalação do Python no macOS
 
