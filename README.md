@@ -136,3 +136,8 @@ git add .
 ```
 git commit -m 'Descrição'
 ```
+
+## Instalando Heroku
+```
+brew tap heroku/brew && brew install heroku
+```
