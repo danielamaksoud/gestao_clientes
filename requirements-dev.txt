@@ -7,4 +7,4 @@ python-decouple==3.3
 pytz==2020.4
 sqlparse==0.4.1
 static3==0.7.0
-bootstrapform
+django-bootstrap-form==3.3
