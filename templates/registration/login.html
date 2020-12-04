@@ -1,7 +1,29 @@
-<h2>Login</h2>
+{%  extends 'base.html' %}
 
-<form method="POST">
-	{% csrf_token %}
-	{{ form.as_p }} <!-- Renderizado como um parágrafo. -->
-	<button type="submit">Login</button>
-</form>
+{% load bootstrap %}
+
+{% block title %}
+	Login
+{% endblock %}
+
+{% block main %}
+
+	<h2>Login</h2>
+
+	<form method="POST">
+		{% csrf_token %}
+		{{ form|bootstrap }}
+		<button type="submit" class="btn btn-info">Entrar</button>
+	</form>
+
+{% endblock %}
+
+{% block footer %}
+	
+	<footer class="footer">
+		<div class="container">
+			<span class="text-muted">Programação para Web (INF1407) - PUC-Rio</span>
+		</div>
+	</footer>
+	
+{% endblock %}
