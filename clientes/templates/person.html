@@ -24,6 +24,20 @@
 			</p>
 			
 			<a href="{% url 'person_new' %}" class="btn btn-primary">Novo cliente</a>
+		
+			<br><br>
+			
+			<h3>Buscar Cliente</h3>
+			<form method="GET" action="{% url 'person_search' %}" id="search-person">
+				<div>
+					<input type="text" name="first_name">
+					<input type="submit" value="Buscar" class="btn btn-light">
+				</div>
+			</form>
+			<br>
+			<div id="result">
+				<span></span>
+			</div>
 		</div>
 		
 		<div class="col">
