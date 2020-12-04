@@ -24,6 +24,7 @@ Site em Django.
 - **[Python name 'os' is not defined [duplicate]](https://stackoverflow.com/questions/23048129/python-name-os-is-not-defined/23048147)**
 - **[Bootstrap](https://www.bootstrapcdn.com/)**
 - **[Django Bootstrap Form](https://django-bootstrap-form.readthedocs.io/en/latest/)**
+- **[git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)**
 
 ## Testando a instalação do Python no macOS
 
@@ -136,6 +137,12 @@ git add .
 
 ```
 git commit -m 'Descrição'
+```
+
+## Enviando alterações no Git
+
+```
+git push origin master
 ```
 
 ## Instalando Heroku
