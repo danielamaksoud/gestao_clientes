@@ -25,6 +25,8 @@ Site em Django.
 - **[Bootstrap](https://www.bootstrapcdn.com/)**
 - **[Django Bootstrap Form](https://django-bootstrap-form.readthedocs.io/en/latest/)**
 - **[git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)**
+- **[TypeError: $.ajax(…) is not a function?](https://stackoverflow.com/questions/18271251/typeerror-ajax-is-not-a-function)**
+- **[Implementar Ajax en Django - Bytes](https://www.youtube.com/watch?v=rySLu_7w9Rw)**
 
 ## Testando a instalação do Python no macOS
 
