@@ -27,6 +27,7 @@ Site em Django.
 - **[git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)**
 - **[TypeError: $.ajax(…) is not a function?](https://stackoverflow.com/questions/18271251/typeerror-ajax-is-not-a-function)**
 - **[Implementar Ajax en Django - Bytes](https://www.youtube.com/watch?v=rySLu_7w9Rw)**
+- **[How to append HTML code to a div using JavaScript ?](https://www.geeksforgeeks.org/how-to-append-html-code-to-a-div-using-javascript/#:~:text=Using%20the%20innerHTML%20attribute%3A,the%20%2B%3D%20operator%20on%20innerHTML.)**
 
 ## Testando a instalação do Python no macOS
 
