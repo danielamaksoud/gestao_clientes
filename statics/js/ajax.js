@@ -7,7 +7,15 @@ $(document).ready(function(){
 			data: $(this).serialize(),
 			success: function(json){
 				console.log(json)
-				document.getElementById('result').replaceChild(document.createTextNode("JSON criado."), document.getElementById('result').firstChild);
+				var data = JSON.stringify(json);
+				for (var i = 0; i < json.length; i++) {
+					document.getElementById('result').appendChild(document.createTextNode(json[i].first_name + ' ' + json[i].last_name));
+					document.getElementById("result").innerHTML += "<br>";
+				}
+				if (json.length == 0) {
+					document.getElementById('result').appendChild(document.createTextNode("Cliente não encontrado."));
+					document.getElementById("result").innerHTML += "<br>";
+				}
 			}
 		})
 	})
