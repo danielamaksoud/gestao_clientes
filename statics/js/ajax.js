@@ -24,8 +24,9 @@ $(document).ready(function(){
 				//document.getElementById("result").innerHTML += "<br>";
 				
 				if (json.length == 0) {
-					document.getElementById('result').appendChild(document.createTextNode("Cliente não encontrado."));
-					document.getElementById("result").innerHTML += "<br>";
+					/* document.getElementById('result').appendChild(document.createTextNode("Cliente não encontrado."));
+					document.getElementById("result").innerHTML += "<br>"; */
+					document.getElementById('result').replaceChild(document.createTextNode("Cliente não encontrado."), document.getElementById("result").firstChild);
 				}
 			}
 		})
