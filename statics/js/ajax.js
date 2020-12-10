@@ -8,10 +8,21 @@ $(document).ready(function(){
 			success: function(json){
 				console.log(json)
 				var data = JSON.stringify(json);
+				var arr = Array();
+				
 				for (var i = 0; i < json.length; i++) {
-					document.getElementById('result').appendChild(document.createTextNode(json[i].first_name + ' ' + json[i].last_name));
-					document.getElementById("result").innerHTML += "<br>";
+					arr[i] = json[i].first_name + ' ' + json[i].last_name;
+					/* document.getElementById('result').appendChild(document.createTextNode(json[i].first_name + ' ' + json[i].last_name));
+					document.getElementById("result").innerHTML += "<br>"; */
 				}
+				
+				//console.log(arr)
+				
+				complete_names = arr.join(", ");
+				
+				document.getElementById("result").replaceChild(document.createTextNode(complete_names), document.getElementById("result").firstChild);
+				//document.getElementById("result").innerHTML += "<br>";
+				
 				if (json.length == 0) {
 					document.getElementById('result').appendChild(document.createTextNode("Cliente não encontrado."));
 					document.getElementById("result").innerHTML += "<br>";
