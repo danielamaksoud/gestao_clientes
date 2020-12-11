@@ -4,6 +4,10 @@
 
 Site em Django.
 
+## Post do projeto no meu blog
+
+- **[https://danielamaksoud.com.br/blog/minha-primeira-aplicacao-no-django/](https://danielamaksoud.com.br/blog/minha-primeira-aplicacao-no-django/)**
+
 ## Aplicação no Heroku
 
 - **[https://gestao-clientes-prog-web.herokuapp.com/](https://gestao-clientes-prog-web.herokuapp.com/)**
